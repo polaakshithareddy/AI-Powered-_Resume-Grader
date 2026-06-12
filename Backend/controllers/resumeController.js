@@ -1,4 +1,4 @@
-const Resume = require('../models/Resume');
+const Resume = require('../Models/Resume');
 const pdfParse = require('pdf-parse');
 const { analyzeResumeWithGemini } = require('../services/aiService');
 const cloudinary = require('../config/cloudinary');
