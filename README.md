@@ -1,5 +1,7 @@
 # AI Powered Resume Grader
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-blue?style=for-the-badge)](https://ai-powered-resume-grader-njgo1fu14.vercel.app/)
+
 An enterprise-grade, AI-driven application that analyzes resumes against target job roles, providing instant ATS (Applicant Tracking System) match scores, missing keyword detection, and AI-powered bullet point optimization.
 
 ## 🚀 Features
